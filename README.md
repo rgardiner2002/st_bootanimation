@@ -2,6 +2,10 @@
 
 Custom Ford ST / Ford Performance boot animation designed for Android-based car head units.
 
+## Preview
+
+![Ford ST Boot Animation Preview](example.gif)
+
 ## Details
 
 - **Resolution:** 2400×900
